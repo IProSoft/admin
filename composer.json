@@ -11,11 +11,11 @@
     ],
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "5.*",
+        "laravel/framework": "5.2.*",
         "pingpong/menus": "2.2.*",
-        "pingpong/presenters": "2.1.*",
-        "pingpong/trusty": "2.1.*",
-        "pingpong/support": "2.1.*",
+        "pingpong/presenters": "dev-bugfix",
+        "pingpong/trusty": "dev-bugfix",
+        "pingpong/support": "dev-bugfix",
         "intervention/image": "~2"
     },
     "require-dev": {
