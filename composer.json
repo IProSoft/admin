@@ -12,7 +12,7 @@
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.*",
-        "pingpong/menus": "dev-master*",
+        "pingpong/menus": "dev-master",
         "pingpong/presenters": "dev-master",
         "pingpong/trusty": "dev-master",
         "pingpong/support": "dev-master",
