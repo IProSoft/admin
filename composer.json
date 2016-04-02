@@ -12,10 +12,10 @@
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.*",
-        "pingpong/menus": "2.1.*",
-        "pingpong/presenters": "2.1.*",
-        "pingpong/trusty": "2.1.*",
-        "pingpong/support": "2.1.*",
+        "pingpong/menus": "dev-master*",
+        "pingpong/presenters": "dev-master",
+        "pingpong/trusty": "dev-master",
+        "pingpong/support": "dev-master",
         "intervention/image": "~2"
     },
     "require-dev": {
