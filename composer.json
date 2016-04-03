@@ -15,7 +15,7 @@
         "pingpong/menus": "2.2.*",
         "pingpong/presenters": "dev-bugfix",
         "pingpong/trusty": "dev-bugfix",
-        "pingpong/support": "2.2.*",
+        "pingpong/support": "dev-bugfix",
         "intervention/image": "~2"
     },
     "require-dev": {
